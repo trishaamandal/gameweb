@@ -7,7 +7,7 @@
 # 2🎮
 ![PROJECT3](https://github.com/user-attachments/assets/4d943e5a-3bbc-4027-8c77-6fab68650526)
 
-# ABOUT THIS FRONTEND PROJECT  😊 ->
+# ABOUT THIS FRONTEND PROJECT  😊 
 An exciting online Fight game where players can play against each other in real-time. The game features multiple tracks, customizable cars, and competitive leaderboards.
 
 ## Technologies Used
